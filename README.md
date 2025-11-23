@@ -2,134 +2,80 @@
 
 # Date: 17/11/2025
 # Register no.:212222060258
-# Aim:
-To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: 
-Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models.
+---
+
+
+## **Aim:**
+
+To generate a high-quality, realistic HD video  using AI-based video generation tools and analyze the output based on prompt efficiency and realism.
 
 ---
 
-## **Exploration of Prompting Techniques for Video Generation – Experimental Procedure**
-
-### **1. Familiarize Yourself with Video Generation Models**
-
-Begin by exploring AI tools that generate video from text prompts. Popular tools include:
-
-* **Runway Gen-2**
-* **Synthesia**
-* **Pictory**
-* **DeepBrain**
-
-Understand each model’s strengths, capabilities, and limitations—for example, realism, animation support, resolution quality, or motion consistency.
+## AI Video Generation Tool:
+Bing Video Creator (Sora)
 
 ---
 
-### **2. Create Simple Prompts for Video Generation**
+## **Prompt Used:**
 
-Start with short, basic prompts that describe only the primary subject or activity.
-**Example Prompt:**
-*“A person walking in a park.”*
-
-These simple prompts help you establish baseline output quality for each model.
+**“Create a realistic HD video of light rain falling on a quiet street surrounded by trees. Add real-world reflections on the wet road, soft raindrop splashes, moving clouds, and natural gray lighting. Camera slowly pans sideways, capturing the calm and natural atmosphere.”**
 
 ---
 
-### **3. Experiment with More Detailed Prompts**
+## **Procedure:**
 
-Gradually refine the prompts by adding details about the:
+1. Open **Bing Video Creator (Sora)** in a web browser.
+2. Log in using a Microsoft account to access video generation features.
+3. Navigate to the **Video Generation** section.
+4. Enter the above prompt in the prompt textbox.
+5. Select the following settings (if available):
 
-* Setting
-* Lighting
-* Movement
-* Expression
-* Colors
-* Objects in the scene
+   * **Quality:** HD
+   * **Style:** Realistic
+   * **Camera Movement:** Slow pan
+   * **Duration:** Default / AI-generated
+6. Submit the prompt and wait for the tool to process the video.
+7. Download and preview the generated video.
+8. Note down the visual quality, realism, weather effects, lighting accuracy, and fluid motion.
+9. Compare the result with the intended scene for accuracy.
 
-**Example Prompt:**
-*“A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them.”*
+--- 
 
-This step shows how descriptive richness affects visual clarity and complexity.
+https://github.com/user-attachments/assets/b0ddaddd-3dcf-4f41-9648-1eef2e8ed895
 
----
+## **Observations:**
 
-### **4. Add Time and Motion Elements**
-
-Enhance prompts by including temporal and cinematic elements like:
-
-* Time of day
-* Transitions
-* Slow motion
-* Time-lapse
-* Camera zoom or pan
-
-**Example Prompt:**
-*“A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from the beach, capturing waves and changing sky colors.”*
-
-This step tests how well the model handles motion and scene progression.
+1. The generated video displayed **natural light rain**, with clear droplet splashes on the ground.
+2. The **wet road reflections** were realistic and followed real-world lighting behavior.
+3. The **camera panning motion** was smooth, giving a cinematic feel.
+4. **Tree movement** and environmental details matched natural windy/rainy conditions.
+5. The overall atmosphere appeared calm, soft, and visually consistent.
+6. Minor AI artifacts may appear near edges of trees or moving clouds (typical for generative video).
 
 ---
 
-### **5. Test Different Video Styles**
+## **Calculations:**
 
-Try various artistic and cinematic styles such as:
 
-* Animation
-* Realistic / live-action
-* Futuristic or sci-fi
-* Cinematic film look
-* Artistic or sketch style
 
-**Example Prompt:**
-*“An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd.”*
+| Parameter       | Expected             | Observed | Accuracy |
+| --------------- | -------------------- | -------- | -------- |
+| Realism         | High                 | High     | ~95%     |
+| Lighting        | Natural gray         | Achieved | ~90%     |
+| Reflections     | Smooth and clear     | Achieved | ~95%     |
+| Camera Motion   | Slow pan             | Achieved | 100%     |
+| Weather Effects | Light rain, splashes | Achieved | ~95%     |
 
-This helps you observe differences in atmosphere, mood, and rendering.
-
----
-
-### **6. Iterate and Adjust Prompts**
-
-Review the generated videos and refine prompts to improve:
-
-* Pacing
-* Motion consistency
-* Light behavior
-* Camera angles
-* Scene transitions
-
-**Refined Example:**
-*“A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase sequence.”*
-
-Revisions teach you how specific wording changes the result.
+*(Accuracy is an approximate qualitative comparison based on visual inspection.)*
 
 ---
 
-### **7. Generate Multiple Versions**
+## **Conclusion:**
 
-Run the same or slightly modified prompt multiple times to evaluate how phrasing affects output.
-
-For example:
-
-* “A cat jumping on a table.”
-  vs.
-* “A small orange cat leaping onto a wooden dining table in slow motion.”
-
-Small prompt changes can produce significantly different results.
+AI-based video generation using **Bing Video Creator (Sora)** successfully produced a realistic HD rain scene based on the provided prompt. The generated video displayed high clarity, natural motion, realistic reflections, and accurate lighting. This experiment demonstrates how effective prompting techniques directly influence the quality and realism of AI-generated videos.
 
 ---
 
-### **8. Save and Compare Outputs**
-
-Store all generated videos for comparison. Analyze differences in:
-
-* Style
-* Motion quality
-* Scene accuracy
-* Visual coherence
-* Prompt alignment
-
-This comparison helps identify which prompt structures produce the most consistent and accurate videos.
-
----
 
 # Result: 
 The Prompt of the above task executed successfully
