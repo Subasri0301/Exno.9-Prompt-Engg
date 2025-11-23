@@ -41,6 +41,14 @@ Bing Video Creator (Sora)
 
 --- 
 
+
+
+
+
+
+
+
+
 https://github.com/user-attachments/assets/b0ddaddd-3dcf-4f41-9648-1eef2e8ed895
 
 ## **Observations:**
